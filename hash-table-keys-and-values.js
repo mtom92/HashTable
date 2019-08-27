@@ -67,8 +67,6 @@ ht.set("salmon","#FA8072")
 ht.set("lightcoral","#F08080")
 ht.set("mediumvioletred","#C71585")
 ht.set("plum","#DDA0DD")
-ht.set("purple","#DDA0DD")
-ht.set("violet","#DDA0DD")
 
 
 ht.keys().forEach(function(key){
